@@ -52,9 +52,9 @@ EmployeeManagementSeedingDataAPI/
 ## Setup
 
 1. Clone the repository:
-   
+   ```
    git clone https://github.com/yourusername/EmployeeManagementSeedingDataAPI.git
-   
+   ```
 
 - **Data Seeding**:
   - Automatically seeds initial data (employees, departments, projects) if the database is empty.
@@ -120,10 +120,15 @@ To run the application, use the following command:
 ```
 dotnet run
 ```
-The API will be available at http://localhost:5000.
-
+The API will be available at
+```
+http://localhost:5000.
+```
 7. Access the API Documentation
-Once the application is running, you can view the API documentation at http://localhost:5000/swagger.
+Once the application is running, you can view the API documentation at
+```
+ http://localhost:5000/swagger.
+```
 Swagger will provide an interactive interface to test the API endpoints.
 
 Endpoints
