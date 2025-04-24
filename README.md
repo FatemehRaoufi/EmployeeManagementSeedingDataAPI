@@ -42,10 +42,12 @@ EmployeeManagementSeedingDataAPI/
 
 ## Technologies Used
 
+- **.NET 7.0**
+- **Entity Framework Core 7.0.2**: For database interactions and data seeding.
+- **SQL Server** : Used for storing employee, department, and project data.
+- **Swagger / OpenAPI** (via Swashbuckle 6.5.0): For API documentation and testing endpoints.
 - **ASP.NET Core Web API**: For creating RESTful API services.
-- **Entity Framework Core**: For database interactions and data seeding.
-- **SQL Server**: Used for storing employee, department, and project data.
-- **Swagger**: For API documentation and testing endpoints.
+
 
 ## Setup
 
@@ -67,7 +69,7 @@ EmployeeManagementSeedingDataAPI/
 
 To run this project locally, you'll need:
 
-- .NET 6.0 or later installed.
+- .NET 7.0 or later installed.
 - SQL Server or a compatible database.
 - Visual Studio or a code editor like VS Code.
 
